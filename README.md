@@ -31,3 +31,5 @@ run yarn knex:migrate or npm run knex:migrate
 run yarn knex:seed or npm run knex:seed
 
 and run yarn dev or npm run dev
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Irriga%20Global&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fguilhermeddc%2Firriga-tech-challenge%2Fmaster%2FInsomnia_2020-07-21.json)
