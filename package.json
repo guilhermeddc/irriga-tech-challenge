@@ -10,7 +10,7 @@
     "knex:rollback": "knex --knexfile knexfile.js migrate:rollback"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "knex": "^0.21.2",
